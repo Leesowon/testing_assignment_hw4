@@ -31,3 +31,5 @@ W
 -src/test/java/org/example/SubtractorTest.java,2\d\2deafca2423dc35f544cb655890c55ba0acf730e
 ;
 Jenkinsfile,0\c\0c2c5c506cef0ed2d3ad2b7e45e97980b66f5520
+X
+(src/test/java/org/example/AdderTest.java,7\3\73b56a20f07c82608b0302ec718a0d5a79048e9c
