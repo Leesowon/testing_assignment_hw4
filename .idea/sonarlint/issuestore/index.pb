@@ -35,3 +35,5 @@ X
 (src/test/java/org/example/AdderTest.java,7\3\73b56a20f07c82608b0302ec718a0d5a79048e9c
 ]
 -src/test/java/org/example/MultiplierTest.java,a\5\a58556989d12d7d896e40e6806ed8ae588eb825b
+Z
+*src/test/java/org/example/DividerTest.java,3\c\3c8155f20e06fcf38e90f1cea1ced1bd28b0c142
