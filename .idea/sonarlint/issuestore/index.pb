@@ -33,3 +33,5 @@ W
 Jenkinsfile,0\c\0c2c5c506cef0ed2d3ad2b7e45e97980b66f5520
 X
 (src/test/java/org/example/AdderTest.java,7\3\73b56a20f07c82608b0302ec718a0d5a79048e9c
+]
+-src/test/java/org/example/MultiplierTest.java,a\5\a58556989d12d7d896e40e6806ed8ae588eb825b
